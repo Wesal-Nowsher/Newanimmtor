@@ -259,7 +259,7 @@ class NewMenu extends Component{
                 <div className="row padd-1 ">
                     <div className="col-sm-12 padd">
                         <div className={`cards ${this.props.backactive}`}>
-                            <div className={this.props.variation===3 || this.props.variation===2 ? "row justify-content-center":"row"}>
+                            <div className={this.props.variation===3 || this.props.variation===2 ? "row justify-content-center bomb":"row"}>
                                 {
                                     this.makeBoxes()
                                 }
