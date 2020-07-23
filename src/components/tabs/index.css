@@ -1,0 +1,89 @@
+.react-tabs-tab{
+    padding: 0 10px !important;
+    outline: none;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid transparent;
+    border-bottom: none;
+    bottom: -1px;
+    position: relative;
+    list-style: none;
+    width: 190px;
+    cursor: pointer;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    align-items: center;
+    border-right: 1px solid rgb(236,236,236);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background: lightgrey;
+    color: #ffffff !important;
+    height: 31px !important;
+    margin-right: 4px;
+}
+.extra-sidetab .react-tabs-container .react-tabs-tab{
+    margin: 5px 0 0 5px;
+    margin-right: 0;
+    border-radius:10px;
+    width: 100%;
+}
+.extra-sidetab .react-tabs-container{
+    height:auto;
+    flex-direction: column;
+    width: 100%;
+
+}
+.react-tabs-container{
+    background-color: transparent !important;
+    border-color: white !important;
+    /*margin: 15px 0px 0px 20px!important;*/
+    margin-top: 0px !important;
+    border-bottom: none!important;
+    align-items: flex-end!important;
+}
+.react-tabs-active span{
+    color: black;
+}
+.with20per{
+    width: 20%;
+}
+.react-tabs-active{
+    background: lightblue!important;
+    border-left: transparent !important;
+    border-color: transparent!important;
+}
+.react-tabs-tab-content{
+    text-align: left !important;
+
+}
+.react-tabs-tab-close{
+    border-color: transparent!important;
+    visibility: visible !important;
+    font-size: 20px !important;
+    font-weight: 100 !important;
+    color: white;
+
+}
+.react-tabs-tab-close:hover {
+    background-color: transparent !important;
+    color: white !important;
+    border-color: transparent !important;
+}
+.react-tabs-tab-content{
+    font-size: 14px;
+    margin-bottom: 0;
+    margin-right: 14px;
+    font-weight: 300;
+}
+ .react-tabs-tab-close:hover{
+    width: 20px!important;
+    background: black!important;
+    height: 20px!important;
+}
+.react-tabs-tab-close{
+    width: 20px!important;
+    height: 20px!important;
+}
+/*.react-tabs-container{*/
+    /*overflow: auto!important;*/
+/*}*/

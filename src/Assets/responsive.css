@@ -1,0 +1,86 @@
+@media (max-width: 479px) and (min-width: 320px) {
+    .nomobile{
+        display: none;
+    }
+    .mobile{
+        display: block;
+    }
+    .respons{
+        flex-direction: column;
+    }
+    .width3{
+        width: 100%;
+        position: absolute;
+        z-index: 3294823948;
+        background: white;
+        align-items: flex-start!important;
+        padding-left: 50px;
+    }
+    .closer-res{
+        position: absolute;
+        right: 33px;
+        font-size: 25px;
+    }
+    .width40per {
+        width: 100%;
+        margin-right: 0px;
+    }
+    #menu .cards .img-div.sizer3 img {
+        width: 75px;
+        transition: 0.3s;
+    }
+    #menu .cards .img-div.sizer2 img {
+        width: 55px;
+        transition: 0.3s;
+    }
+    #menu .cards .img-div.sizer1 img {
+        width: 35px;
+        transition: 0.3s;
+    }
+    .with20per {
+        width: 32%;
+    }
+    .width90 {
+        width: 100%;
+    }
+    #menu{
+        padding:0;
+    }
+    .widt1 {
+        width: 100%;
+    }.widt2 {
+        width: 100%;
+    }.widt3 {
+        width: 100%;
+    }
+    .width20 {
+        width: 100%;
+    }
+    .extra-sidetab .react-tabs-container{
+
+    }
+    .width70 {
+        width: 100%;
+    }
+    #menu .cards .card-inner{
+        padding:0;
+    }
+}
+@media (max-width: 575px) and (min-width: 480px) {
+
+}
+@media (max-width: 684px) and (min-width: 576px) {
+
+}
+@media (max-width: 767px) and (min-width: 685px) {
+
+}
+@media (max-width: 991px) and (min-width: 768px) {
+
+}
+@media (max-width: 1023px) and (min-width: 992px) {
+
+}
+@media (max-width: 1199px) and (min-width: 1024px) {
+
+}

@@ -1,0 +1,1265 @@
+
+/* menu css start */
+#menu .react-tabs__tab{
+    background: rgb(216,216,216);
+    border-color: #ffffff;
+    color: #ffffff;
+    border-radius: 0;
+    padding: 12px 4px 12px 24px;
+    /* width: 15%; */
+}
+#menu .react-tabs__tab-list {
+    margin: 0 0 0;
+    border-bottom:none;
+}
+#menu .react-tabs__tab--selected {
+    background: rgb(119,159,238);
+}
+/* #menu{
+    margin-bottom: 30px;
+} */
+#menu .nav-display{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#menu div li h1{
+    font-size: 22px;
+    margin-bottom: 0;
+}
+#menu .cards.lightgrey{
+    background-color: rgb(236,236,236);
+}
+#menu .cards.black{
+    background-color: black;
+}
+#menu .cards.white{
+    background-color: white;
+}
+#menu .cards.lightblue{
+    background-color: lightblue;
+}
+#menu .cards{
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px 24px;
+    /*height: 100%;*/
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+#menu .tab-row{
+    padding: 0px 14px;
+}
+#menu .padd{
+    padding: 0 0;
+}
+#menu .padd-1{
+    padding: 0 0;
+}
+.width40per{
+    width: 35%;
+    margin-right: 50px;
+}
+#menu .cards h4{
+    font-size: 16px;
+    font-weight: bold;
+    margin-top:10px;
+}
+
+#menu .cards h5{
+    font-size: 16px;
+    font-weight: bold;
+    color:rgb(119,159,238) ;
+}
+.hover-effect:hover{
+    box-shadow: 0px 0px 5px black;
+    /*background: white;*/
+    cursor: pointer;
+    border-radius:5px;
+}
+.black-back{
+    background: #000!important;;
+    color: white!important;;
+}
+
+.grey-back{
+    background: lightgrey!important;;
+    color: white!important;
+}
+.hover-effect1:hover{
+
+    box-shadow: 0px 0px 5px white;
+    /*background: white;*/
+    cursor: pointer;
+    border-radius:5px;
+}
+
+.for-hover:hover{
+    background:lightgrey;
+    border-radius:50%;
+}
+.fontcolorchnage{
+    background: transparent;
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: 20px;
+    cursor:pointer;
+}
+#menu .cards .card-inner{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /*max-height: 190px;*/
+    /*min-height: 190px;*/
+}
+#menu .cards .card-inner .img-div{
+    padding: 10px 10px 10px 10px;
+}
+
+#menu .cards .img-div img{
+    /*width: 100%;*/
+}
+#menu .cards .img-div.sizer1 img{
+    width:65px;
+    transition: 0.3s;
+}
+.blacksize{
+    color: black;
+}
+.greysize{
+        color: #AAAAAA;
+}
+.clearsize{
+    color: transparent;
+    display: none;
+}
+.widt1{
+    width: 150px;
+}
+.widt2{
+width: 190px;
+}
+.widt3{
+    width: 190px;
+}
+.blueiconsfont{
+    width: 20px;
+    height:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.trans-font-c{
+    background: transparent;
+    font-weight: 600;
+    font-size: 15px;
+    position:relative;
+    cursor:pointer;
+    color: #0000003b;
+}
+.grey-font-c{
+    background: transparent;
+    font-weight: 600;
+    font-size: 15px;
+    position:relative;
+    cursor:pointer;
+    color: #0000003b;
+}
+.black-font-c{
+    background: transparent;
+    font-weight: 600;
+    font-size: 15px;
+    position:relative;
+    cursor:pointer;
+    color: #0000003b;
+    margin-top: 20px;
+}
+.red-ba{
+    position: absolute;
+    top: 3px;
+    color: lightgrey;
+    left: 2px;
+    font-size: 20px;
+}
+.fontsize.active i{
+    font-size: 20px!important;
+}
+.fontsize.active{
+    font-size: 20px!important;
+}
+#menu .cards .img-div.sizer2 img{
+    width:95px;
+    transition: 0.3s;
+}
+#menu .cards .img-div.sizer3 img{
+    width:120px;
+    transition: 0.3s;
+}
+.mobile{
+    display: none;    
+}
+/*#menu .cards .img-div.sizer1 img:hover{*/
+    /*width:70px;*/
+/*}*/
+/*#menu .cards .img-div.sizer2 img:hover{*/
+    /*width:100px;*/
+/*}*/
+/*#menu .cards .img-div.sizer3 img:hover{*/
+    /*width:125px;*/
+/*}*/
+.tabs-img{
+    width: 15px;
+    margin-right: 5px;
+    margin-bottom: 2px;
+}
+
+.width3{
+ width:2%;
+}
+.width90{
+    width:98%
+}
+.width70{
+    width:82%
+}
+.width20{
+    width:15.5%
+}
+.blackicons{
+    width: 12px;
+    height: 12px;
+    background: black;
+    margin-top: 40px;
+    border-radius: 50%;
+}
+.blueicons.active{
+    width: 15px;
+    height: 15px;
+}
+.size1{
+    width: 10px;
+    height: 4px;
+    background: #808080c7;
+    margin-top: 30px;
+
+}
+.size2{
+    width: 14px;
+    height: 4px;
+    background: #808080c7;
+    margin-top: 10px;
+
+}
+.sizeshadow:hover{
+    box-shadow: 0px 0px 5px black;
+}
+
+.size3{
+    width: 17px;
+    height: 4px;
+    background: #808080c7;
+    margin-top: 10px;
+
+}
+.blueiconsfont:hover{
+    box-shadow: 0px 0px 5px black;
+}
+.blueicons:hover{
+    box-shadow: 0px 0px 5px black;
+}
+.activesize{
+    background-color: black;
+
+    border-color: black;
+}
+.blackicons.active{
+    width: 15px;
+    height: 15px;
+}
+.blueicons{
+    width: 12px;
+    height: 12px;
+    background: blue;
+    margin-top: 5px;
+    border-radius: 50%;
+}
+.purpleicons{
+    width: 25px;
+    height: 25px;
+    background: purple;
+    margin-top: 5px;
+    border-radius: 50%;
+}
+
+.tabs-imge{
+    width: 12px;
+    margin-right: 5px;
+    margin-bottom: 2px;
+}
+.tabs-i{
+    margin-right: 5px;
+    margin-bottom: 2px;
+    color: #000;
+}
+#menu .cards .card-inner button{
+    width: 100%;
+    background: rgb(119,159,238);
+    color: #ffffff;
+    font-size: 10px;
+    outline: none;
+    border: none;
+    padding: 7px 2px;
+}
+#menu .cards .card-inner button:hover{
+    background: rgb(216,216,216);
+    color: black;
+}
+#menu .cards .card-inner .two-btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    padding-top: 40px;
+}
+#menu .cards .comingsoon{
+    height: 100%;
+}
+#menu .right-side{
+    height: 100%;
+}
+#menu .right-side .graphs{
+    height: 80%;
+}
+#menu .img-div.img-ext{
+    border-top: 2px solid rgb(216,216,216);
+    margin-top: 24px;
+    padding-top: 10px;
+}
+/* menu css end */
+/* login css start */
+.pop{
+    justify-content: center;
+}
+.pop .card .card-top{
+    padding: 30px 35px;
+}
+.pop .card .card-top.height{
+    height: 260px;
+}
+.pop .card .lab-inp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 25px 0 2px 0;
+}
+.pop .card .lab-inp input{
+    width: 68%;
+    border: 2px solid rgba(0,0,0,.125);
+    padding-left: 10px;
+}
+.pop .card .lab-inp select{
+    width: 100%;
+    border: 2px solid rgba(0,0,0,.125);
+    outline: none;
+    padding-left: 10px;
+}
+.pop .card .card-bottom{
+    background: rgb(236,236,236);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 20px 30px;
+}
+.pop .card  .right{
+    width: 68%;
+}
+.pop .card .right button{
+    background: rgb(119,159,238);
+    color: #ffffff;
+    width: 100%;
+    border: none;
+    outline: none;
+    margin-top: 15px;
+    padding: 6px;
+}
+.terms-con{
+    padding: 40px 30px;
+}
+.terms-con .input{
+    color: rgb(119,159,238);
+    text-align: center;
+    margin-bottom: 10px;
+}
+#login{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+/* login css end */
+.pop .card .createuser{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.pop .card .createuserimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pop .card .createuserimg img{
+    width: 16%;
+}
+/* create user css */
+/* employeeAccess css start */
+#employee{
+    background: rgb(216,216,216);
+    height: 100vh;
+    padding: 30px 0;
+}
+#employee .form-set.width2{
+    width: 23%;
+}
+#employee .form-set{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#employee .form-set label{
+    font-size: 14px
+}
+#employee select{
+    width: 100%;
+    border: 2px solid rgba(0,0,0,.125);
+    outline: none;
+    color: rgba(0, 0, 0, 0.5);
+    border: 2px solid rgba(0, 0, 0, 0.125);
+}
+#employee .employeebox{
+    background: rgb(119,159,238);
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 155px;
+    padding: 10px 10px;
+    margin: 25px 25px 30px 0;
+}
+#employee .employeebox h4{
+    font-size: 15px;
+    margin-bottom: 0;
+    text-align: center;
+}
+/* employeeAccess css end */
+/* user activity css start */
+.table-head{
+    background: rgb(236,236,236);
+    padding: 40px 50px;
+}
+.table-head .lab-inp{
+    display: flex;
+    align-items: center;
+    font-size: 11px;
+}
+.table-head .lab-inp input{
+    margin-left: 14px;
+    width: 60%;
+}
+.table-body{
+    padding: 40px 50px;
+}
+table{
+    width:100%;
+}
+.table-body tr td, table thead th{
+    padding: 20px 0;
+    font-size: 12px;
+}
+.table-body tr td i, table thead th i{
+    cursor: pointer;
+    font-size: 18px;
+}
+.table-body tr td i:hover, table thead th i:hover{
+    color: rgb(119,159,238);
+}
+.table-body tr td:last-child i{
+    margin-left: 30px;
+}
+.table-body tr td{
+    color: rgb(141,141, 141);
+}
+/* user activity css end */
+/* maintain css */
+.pop .card .maintain{
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 0;
+}
+.pop .card .maintain>div{
+    width: 68%;
+}
+.pop .card .maintain>div p{
+    font-size: 15px;
+}
+.pop .card .maintain-button{
+    display: flex;
+    justify-content: flex-end;
+    margin: 24px 0;
+}
+.pop .card .maintain-button>div{
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.pop .card .maintain-button>div button{
+    width: 40%;
+    background: rgb(216,216,216);
+    border: none;
+    outline: none;
+    padding: 4px 0;
+}
+.pop .card .maintain-button>div button:first-child{
+    background: rgb(119,159,238);
+    color: #ffffff;
+}
+.weekly.table-body tr td,.weekly table thead th {
+    padding: 14px 0;
+}
+.beforetab{
+    padding: 6px 50px;
+}
+.beforetab p{
+    margin-bottom: 0;
+    padding: 10px 0;
+}
+.beforetab .background{
+    background:rgb(216,216,216);
+}
+#openweek{
+    padding: 50px;
+}
+#openweek .react-tabs__tab{
+    background: #ffffff;
+    border-color: rgb(216,216,216);
+    border-radius: 0;
+    padding: 16px 26px 16px 26px;
+    color: black;
+}
+#openweek .react-tabs__tab-list {
+    margin: 0 0 0;
+    border-bottom: none;
+}
+#openweek .react-tabs__tab--selected {
+    background: rgb(216,216,216);
+    color: #ffffff;
+}
+#openweek .react-tabs__tab h1{
+    font-size: 12px;
+}
+#openweek .react-tabs__tab-panel--selected {
+    border: 1px solid rgb(216,216,216);
+}
+/* pending review css start */
+.sku-ex{
+    background: rgb(119,159,238);
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    padding: 4px 10px;
+    width: 84%;
+    justify-content: space-between;
+}
+.sku-ex p{
+    margin-bottom: 0;
+}
+.bordertop{
+    border-top: 2px solid rgb(216,216,216);
+}
+.secondtable {
+    border-top: 1px solid rgb(216,216,216);
+}
+.secondtable table{
+    width: 100%;
+}
+.secondtable table th{
+    width: 68px;
+}
+/* build details css start*/
+.builddetails table{
+    width: 100%;
+}
+/* batch print css start*/
+.batch-button{
+    margin-top: 30px;
+}
+.batch-button>div {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 6px 0;
+}
+.batch-button button{
+    background: rgb(216,216,216);
+    border: 1px solid #ffffff;
+    padding: 6px 14px;
+    width: 28%;
+}
+.batch-button button:first-child{
+    background: rgb(119,238,119);
+    color: #ffffff;
+}
+.batch-button button:nth-child(2){
+    background: rgb(119,159,238);
+    color: #ffffff;
+}
+.pop .card .lab-inp p{
+    margin-bottom: 0;
+}
+.pop .card .batch input{
+    width: unset;
+}
+
+/* reviewed view css start */
+.backgroundcol{
+    background: rgb(236,236,236);
+    padding: 25px 50px;
+}
+.backgroundcol .first{
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+}
+.backgroundcol .first p{
+    margin-bottom: 0;
+    font-weight: 500;
+}
+.backgroundcol .first button{
+    background: rgb(119,159,238);
+    border: none;
+    padding: 4px 24px;
+    color: white;
+    margin-left: 60px;
+}
+.backgroundcol .second .col-sm-3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+}
+.backgroundcol .second{
+    margin: 50px 0 15px;
+}
+.backgroundcol .third{
+    margin: 20px 0;
+}
+.backgroundcol .third select{
+    width: 100%;
+}
+.backgroundcol .third .col-sm-3,.backgroundcol .third .col-sm-6{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+}
+.backgroundcol .third .col-sm-6 .unit{
+    width: 15%;
+}
+.table-body.review{
+    padding: 0;
+}
+.table-body.review table{
+    width: 100%;
+}
+
+/* reviewed view css end */
+/* time registration start */
+#registration table{
+    border: 2px solid rgb(236,236,236);
+}
+#registration table thead{
+    background: rgb(236,236,236);
+}
+#registration .table-body tr td,#registration table thead th {
+    padding: 24px 24px;
+}
+#registration table tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+/* time registration end */
+/* manage patch start */
+.manage{
+    justify-content: flex-end!important;
+}
+/* manage patch end */
+.card-top table tr td{
+    padding: 6px 0;
+}
+.card-bottom-1{
+    background: rgb(236,236,236);
+    text-align: center;
+    padding:10px 0;
+}
+
+/* excel file start */
+.excelfile table{
+    width: 100%;
+}
+.excelfile table tr td{
+    padding: 6px;
+}
+.excelfile .border-bot{
+    border-bottom: 1px solid rgb(236,236,236);
+}
+.excelfile tr td input, .excelfile tr td select{
+    color: rgb(141,141, 141);
+}
+
+/* time registration form start */
+.right-button{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.right-button button{
+    background: rgb(119,159,238);
+    border: none;
+    color: #ffffff;
+    padding: 6px 0;
+    margin: 5px 8px;
+    width: 160px;
+}
+.left-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 80px;
+}
+.left-content .esd{
+    font-size: 18px;
+}
+.lab-inp input, .lab-inp select{
+    border: 1px solid rgb(216,216,216);
+}
+.bordertop .lab-inp select{
+    margin-left: 14px;
+    width: 60%;
+    border: 1px solid rgb(216,216,216);
+}
+/* Activity css start */
+.activitytab{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-top: 16px;
+}
+.activitytab table{
+    height: 190px;
+}
+.activitytab td, .activitytab th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+.activitytab th{
+    background: rgb(216,216,216);
+}
+.activitytab tr:nth-child(odd){
+      background-color: #f2f2f2;
+}
+.activitytab select{
+    width: 130px;
+    margin-right: 30px;
+}
+.paddtab{
+    padding: 40px 50px;
+}
+.comment-div{
+    border: 1px solid rgb(216,216,216);
+    padding: 20px;
+    height: 210px;
+    overflow: scroll;
+    overflow-x: hidden;
+    margin: 25px 0;
+}
+.comment-div table{
+    width: 100%;
+}
+.comment-div table tr td{
+    font-size: 14px;
+    padding: 10px 0;
+}
+.comment-div table tr th{
+    font-size: 14px;
+}
+.comment-div table tr th:first-child{
+    width: 20%;
+}
+.comment-div::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  /* Track */
+  .comment-div::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  .comment-div::-webkit-scrollbar-thumb {
+    background: rgb(216,216,216); 
+  }
+  
+  /* Handle on hover */
+  .comment-div::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
+.backgroundcol .third .col-sm-9{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+}
+.backgroundcol .third .col-sm-9 .unit{
+    width: 15%;
+}
+.backgroundcol .third-inn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.backgroundcol .third-inn>div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.backgroundcol .third-inn>div p{
+    margin: 0 14px;
+}
+
+.prepTables{
+    margin: 20px 0;
+}
+
+.prepTables td, .prepTables th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+.prepTables th{
+    background: rgb(216,216,216);
+    text-align: center;
+    font-weight: 500;
+}
+.prepTables tr:nth-child(odd){
+      background-color: #f2f2f2;
+}
+.prepTables tr td:first-child{
+    background-color: rgb(216,216,216);
+    text-align: center;
+}
+
+/* dropdown css */
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    width: 100%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  .dropdown-content>div{
+    display: flex;
+    align-items: center;
+    
+  }
+  .dropdown-content>div p{
+      margin-bottom: 0;
+      margin-left: 6px;
+  }
+  .drop-two>div {
+    padding: 4px 0;
+  }
+  .drop-two>div p{
+    margin-left: 20px;
+  }
+  .dropdown .dropbtn{
+    border: 2px solid rgba(0,0,0,.125);
+    outline: none;
+    color: rgba(0, 0, 0, 0.5);
+    border: 2px solid rgba(0, 0, 0, 0.125);
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+/* dropdown css */
+
+select {
+    -moz-appearance:none; /* Firefox */
+    -webkit-appearance:none; /* Safari and Chrome */
+    appearance:none;
+}
+.position-relative{
+    z-index: 1;
+    width: 68%;
+}
+.position-relative-search{
+    z-index: 1;
+    position: relative;
+}
+.position-relative img{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    width: 10px;
+    z-index: 0;
+}
+.position-relative.pend-extra img{
+    top:6px;
+    right: 0;
+}
+.position-relative-search i{
+    position: absolute;
+    top: 3px;
+    right: 8px;
+    z-index: 0;
+    color: rgb(216,216,216);
+    font-size: 14px;
+    -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+.position-relative.extra img{
+    right: 0px;
+    left: 44%;
+    top: 8px
+}
+
+/* sidebar css */
+.sidenav {
+    height: 100vh;
+    width: 250px;
+    position: absolute;
+    z-index: 123124324;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+    /*opacity:0.35;*/
+    transition: 0.5s;
+  }
+.pos-relative{
+    position: relative;
+}
+.width-250{
+    
+    width: 250px;
+}
+.width-0{
+    width:0px;
+}
+.sidenav:hover{
+    /*opacity:1;*/
+}
+  .sidenav div {
+    padding: 2px 4px 2px 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #818181;
+    display: block;
+  }
+  
+  .sidenav div:hover {
+    color: #f1f1f1;
+    /*background: #818181;*/
+
+  }
+.sidebarlink:hover{
+    cursor: pointer;
+}
+  .sidenav::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  /* Track */
+  .sidenav::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  .sidenav::-webkit-scrollbar-thumb {
+    background: rgb(216,216,216); 
+  }
+  
+  /* Handle on hover */
+  .sidenav::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
+.topbar{
+    background:#7F7F7F ;
+    display: flex;
+    align-items: center;
+}
+.pagetitle:hover{
+    margin-left: 20px!important;
+    padding: 0 15px!important;
+    color: white!important;
+    background:#7F7F7F !important;
+    font-weight: 900;
+}
+.pagetitle{
+    margin-left: 20px!important;
+    padding: 0 15px!important;
+    color: white!important;
+    font-weight: 900;
+}
+.topbar p{
+    margin: 0;
+    padding: 6px;
+}
+.topbar p:hover{
+    cursor: pointer;
+    color: #fff;
+    background-color: #555;
+    border-color: #555;
+}
+.topbar button{
+    background: transparent;
+    border: none;
+    margin-right: 30px;
+    border-radius: 0;
+    outline: none;
+}
+.btn-primary{
+    color: black;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #555;
+    border-color: #555;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #555;
+    border-color: #555;
+}
+.btn-primary.focus, .btn-primary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(69, 69, 70, 0.5);
+}
+.show>.btn-primary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(69, 69, 70, 0.5); 
+}
+#dropdown-item-button:after { 
+    content: none 
+}
+.sidenav-toggle---23_Hl {
+    position: relative;
+    float: left;
+    width: 50px;
+    height: 35px;
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+    background-image: none;
+    border: 0;
+    border-radius: 0;
+    cursor: pointer;
+
+}
+.sidenav-toggle---23_Hl .icon-bar---2jamJ {
+    display: block;
+    width: 20px;
+    height: 2px;
+    margin: 0 auto;
+    background-color: black;
+    border-radius: 1px;
+    -webkit-transition: all 0.15s;
+    -moz-transition: all 0.15s;
+    -o-transition: all 0.15s;
+    -ms-transition: all 0.15s;
+    transition: all 0.15s;
+    opacity: 0.7;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+    filter: alpha(opacity=70);
+}
+.sidenav---_u0En *, .sidenav---_u0En *:before, .sidenav---_u0En *:after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+.sidenav-toggle---23_Hl .icon-bar---2jamJ + .icon-bar---2jamJ {
+    margin-top: 4px;
+}
+
+/* Tabs css */
+#menu .react-tabs__tab {
+    background: rgb(216,216,216);
+    border-color: #ffffff;
+    color: #ffffff;
+    border-radius: 0;
+    padding: 12px 4px 12px 24px;
+    /* width: 15%; */
+}
+/* #menu .tabs-button button --selected {
+    background: #fff;
+    border-color: #aaa;
+    color: black;
+    border-radius: 5px 5px 0 0;
+} */
+#menu .tabs-button{
+    display: inline-flex;
+    /* flex-wrap: wrap; */
+    align-items: center;
+    width: 100%;
+    overflow: auto;
+    overflow-y: hidden;
+    /*overflow-x: hidden;*/
+}
+
+.menus .tabs-button::-webkit-scrollbar {
+    width: 5px;
+    height:5px;
+}
+
+/* Track */
+.menus .tabs-button::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+.menus .tabs-button::-webkit-scrollbar-thumb {
+    background: #888;
+}
+.color-topbar{
+    background-color: #7F7F7F;
+}
+.right-topbar-sign-in div{
+    display: none!important;
+}
+
+.tab-h1{
+    width: 160px;
+    margin: 0;
+    text-align: left;
+}
+/* Handle on hover */
+.menus .tabs-button::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+#menu .tabs-button button {
+    background: rgb(216,216,216);
+    border-color: #ffffff;
+    color: #ffffff;
+    border-radius: 0;
+    padding: 12px 4px 12px 24px;
+    /* width: 15%; */
+}
+.posi-top{
+    position: fixed;
+    top: 0%;
+    outline: none;
+}
+.ml-10m{
+margin-left: 7%;
+}
+#menu .tabs-button button {
+    outline: none;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid transparent;
+    border-bottom: none;
+    bottom: -1px;
+    position: relative;
+    list-style: none;
+    padding: 5px 8px;
+    width: 190px;
+    cursor: pointer;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    align-items: center;
+    border-right: 1px solid rgb(236,236,236);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+#menu .tabs-button button:focus{
+    border: none;
+}
+#menu .tabs-button button h1{
+    font-size: 16px;
+    margin-bottom: 0;
+    margin-right:14px;
+}
+#menu .tabs-button button i:hover{
+    color:black;
+}
+/* error page css */
+#error .card-head{
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 15px;
+}
+#error .card-head .card-left{
+    display: flex;
+    align-items: center;
+}
+#error .card-head .card-left p{
+    margin-bottom: 0;
+    margin-left: 10px;
+}
+#error .card-body{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#error .card-body i{
+    font-size: 60px;
+}
+#error .card-body p{
+    margin-bottom: 0;
+
+}
+#error .cardbot{
+    display: flex;
+    justify-content: flex-end;
+    padding: 4px 20px 20px;
+}
+#error .cardbot button{
+    width: 25%;
+    background: rgb(216,216,216);
+    border: none;
+    outline: none;
+    padding: 4px 0;
+    font-weight: 500;
+}
+#error i.fa-times-circle{
+    color: red;
+}
+/* build input */
+.build-input{
+    width: 30%;
+}
+.build-input img{
+    top:10px;
+    right: 0;
+}
+.next-butt{
+    margin-left: 20px;
+    cursor: pointer;
+}
+.second-pop{
+    width: 500px;
+}
+.second-pop .card-top{
+    padding: 0 !important;
+}

@@ -1,0 +1,455 @@
+{
+  "weeklybuild": [
+    {
+      "name1": "CYC2001",
+      "name2": "0",
+      "name3": "0",
+      "name4": "75",
+      "name5": "90",
+      "name6": "195",
+      "name7": "7106",
+      "edit": "false"
+    },
+    {
+      "name1": "CYC2001",
+      "name2": "0",
+      "name3": "0",
+      "name4": "75",
+      "name5": "90",
+      "name6": "195",
+      "name7": "7106",
+      "edit": "false"
+    },
+    {
+      "name1": "CYC2001",
+      "name2": "0",
+      "name3": "0",
+      "name4": "75",
+      "name5": "90",
+      "name6": "195",
+      "name7": "7106",
+      "edit": "false"
+    }
+  ],
+  "buildbysku": [
+    {
+      "name1": "25266",
+      "name2": "UNASSIGNED",
+      "name3": "10/31/2019",
+      "name4": "75",
+      "name5": "N/A",
+      "name6": "16.99",
+      "name7": "CYC40052",
+      "edit": "false"
+    },
+    {
+      "name1": "25266",
+      "name2": "UNASSIGNED",
+      "name3": "10/31/2019",
+      "name4": "75",
+      "name5": "N/A",
+      "name6": "16.99",
+      "name7": "CYC40052",
+      "edit": "false"
+    },
+    {
+      "name1": "25266",
+      "name2": "UNASSIGNED",
+      "name3": "10/31/2019",
+      "name4": "75",
+      "name5": "N/A",
+      "name6": "16.99",
+      "name7": "CYC40052",
+      "edit": "false"
+    }
+  ],
+  "pendingreview1": [
+    {
+      "name1": "CYC10091",
+      "name2": "Lorem Ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor",
+      "name3": "50",
+      "name4": "1",
+      "edit": "false"
+    },
+    {
+      "name1": "CYC10091",
+      "name2": "Lorem Ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor",
+      "name3": "50",
+      "name4": "1",
+      "edit": "false"
+    },
+    {
+      "name1": "CYC10091",
+      "name2": "Lorem Ipsum dolor",
+      "name3": "50",
+      "name4": "1",
+      "edit": "false"
+    },
+    {
+      "name1": "CYC10091",
+      "name2": "Lorem Ipsum dolor sit ",
+      "name3": "50",
+      "name4": "1",
+      "edit": "false"
+    }
+  ],
+  "currentopenview": [
+    {
+      "name1": "FrmStockCountDetails",
+      "name2": "Open",
+      "name3": "EGUTI001",
+      "name4": "2",
+      "name5": "1796",
+      "name6": "11/04/2019 10:57:58:AM",
+      "name7": "StockCountID",
+      "edit": "false"
+    },
+    {
+      "name1": "FrmStockCountDetails",
+      "name2": "Open",
+      "name3": "EGUTI001",
+      "name4": "2",
+      "name5": "1796",
+      "name6": "11/04/2019 10:57:58:AM",
+      "name7": "StockCountID",
+      "edit": "false"
+    },
+    {
+      "name1": "FrmStockCountDetails",
+      "name2": "Open",
+      "name3": "EGUTI001",
+      "name4": "2",
+      "name5": "1796",
+      "name6": "11/04/2019 10:57:58:AM",
+      "name7": "StockCountID",
+      "edit": "false"
+    },
+    {
+      "name1": "FrmStockCountDetails",
+      "name2": "Open",
+      "name3": "EGUTI001",
+      "name4": "2",
+      "name5": "1796",
+      "name6": "11/04/2019 10:57:58:AM",
+      "name7": "StockCountID",
+      "edit": "false"
+    }
+  ],
+  "pendingreview2": [
+    {
+      "name1": "5064",
+      "name2": "FSCOA01",
+      "name3": "CYC10091",
+      "name4": "10/29/2019",
+      "name5": "25",
+      "name6": "34.5",
+      "name7": "-1",
+      "name8": "",
+      "name9": "Dummy Text placement for a ",
+      "edit": "false"
+    },
+    {
+      "name1": "5064",
+      "name2": "FSCOA01",
+      "name3": "CYC10091",
+      "name4": "10/29/2019",
+      "name5": "25",
+      "name6": "34.5",
+      "name7": "-1",
+      "name8": "",
+      "name9": "Dummy Text placement for a comment",
+      "edit": "false"
+    }
+  ],
+  "useractivity": [
+    {
+      "name1": "11/23/2019",
+      "name2": "11/25/2019",
+      "name3": "7549 Cobblestone St.Batside, Ny 13316",
+      "name4": "23",
+      "name5": "Tesxt Placeholder",
+      "name6": "Activity 1",
+      "edit": "false"
+    },
+    {
+      "name1": "11/23/2019",
+      "name2": "11/25/2019",
+      "name3": "7549 Cobblestone St.Batside, Ny 13316",
+      "name4": "23",
+      "name5": "Tesxt Placeholder",
+      "name6": "Activity 1",
+      "edit": "false"
+    },
+    {
+      "name1": "11/23/2019",
+      "name2": "11/25/2019",
+      "name3": "7549 Cobblestone St.Batside, Ny 13316",
+      "name4": "23",
+      "name5": "Tesxt Placeholder",
+      "name6": "Activity 1",
+      "edit": "false"
+    }
+  ],
+  "weeklybuilds": [
+    {
+      "name1": "5064",
+      "name2": "10/29/2019",
+      "name3": "10/29/2019",
+      "name4": "7",
+      "name5": "7",
+      "name6": "90",
+      "name7": "90",
+      "name8": "195",
+      "edit": "false"
+    },
+    {
+      "name1": "5064",
+      "name2": "10/29/2019",
+      "name3": "10/29/2019",
+      "name4": "7",
+      "name5": "7",
+      "name6": "90",
+      "name7": "90",
+      "name8": "195",
+      "edit": "false"
+    },
+    {
+      "name1": "5064",
+      "name2": "10/29/2019",
+      "name3": "10/29/2019",
+      "name4": "7",
+      "name5": "7",
+      "name6": "90",
+      "name7": "90",
+      "name8": "195",
+      "edit": "false"
+    }
+  ],
+  "builddetailsview": [
+    {
+      "name1": "25266",
+      "name2": "10/29/2019",
+      "name3": "10/29/2019",
+      "name4": "7",
+      "name5": "CYW550505",
+      "name6": "77",
+      "name7": "77",
+      "name8": "77",
+      "name9": "77",
+      "edit": "false"
+    },
+    {
+      "name1": "25266",
+      "name2": "10/29/2019",
+      "name3": "10/29/2019",
+      "name4": "7",
+      "name5": "CYW550505",
+      "name6": "77",
+      "name7": "77",
+      "name8": "77",
+      "name9": "77",
+      "edit": "false"
+    },
+    {
+      "name1": "25266",
+      "name2": "10/29/2019",
+      "name3": "10/29/2019",
+      "name4": "7",
+      "name5": "CYW550505",
+      "name6": "77",
+      "name7": "77",
+      "name8": "77",
+      "name9": "77",
+      "edit": "false"
+    }
+  ],
+  "builddetailsview1": [
+    {
+      "name1": "25266",
+      "name2": "10/29/2019",
+      "name3": "10/29/2019",
+      "name4": "7",
+      "name5": "CYW550505",
+      "name6": "77",
+      "name7": "77",
+      "name8": "77",
+      "edit": "false"
+    },
+    {
+      "name1": "25266",
+      "name2": "10/29/2019",
+      "name3": "10/29/2019",
+      "name4": "7",
+      "name5": "CYW550505",
+      "name6": "77",
+      "name7": "77",
+      "name8": "77",
+      "edit": "false"
+    },
+    {
+      "name1": "25266",
+      "name2": "10/29/2019",
+      "name3": "10/29/2019",
+      "name4": "7",
+      "name5": "CYW550505",
+      "name6": "77",
+      "name7": "77",
+      "name8": "77",
+      "edit": "false"
+    }
+  ],
+  "timeregistration": [
+    {
+      "name1": "00:00:00 AM",
+      "name2": "YCA0012",
+      "name3": "Robert Ruth",
+      "name4": "88",
+      "edit": "false"
+    },
+    {
+      "name1": "00:00:00 AM",
+      "name2": "YCA0012",
+      "name3": "Robert Ruth",
+      "name4": "88",
+      "edit": "false"
+    },
+    {
+      "name1": "00:00:00 AM",
+      "name2": "YCA0012",
+      "name3": "Robert Ruth",
+      "name4": "88",
+      "edit": "false"
+    },
+    {
+      "name1": "00:00:00 AM",
+      "name2": "YCA0012",
+      "name3": "Robert Ruth",
+      "name4": "88",
+      "edit": "false"
+    }
+  ],
+  "users": [
+    {
+      "name1": "205371",
+      "name2": "john",
+      "name3": "low",
+      "edit": "false"
+    },
+    {
+      "name1": "205371",
+      "name2": "michael",
+      "name3": "medum",
+      "edit": "false"
+    },
+    {
+      "name1": "205371",
+      "name2": "simon",
+      "name3": "high",
+      "edit": "false"
+    }
+  ],
+  "product": [
+    {
+      "name1": "CWY550505",
+      "name2": "Alfred Pennyworth",
+      "name3": "Skynet System Inc.",
+      "name4": "ADA3TE",
+      "name5": "323492",
+      "name6": "323492",
+      "name7": "D24494949",
+      "edit": "false"
+    },
+    {
+      "name1": "CWY550505",
+      "name2": "Alfred Pennyworth",
+      "name3": "Skynet System Inc.",
+      "name4": "ADA3TE",
+      "name5": "323492",
+      "name6": "323492",
+      "name7": "D24494949",
+      "edit": "false"
+    },
+    {
+      "name1": "CWY550505",
+      "name2": "Alfred Pennyworth",
+      "name3": "Skynet System Inc.",
+      "name4": "ADA3TE",
+      "name5": "323492",
+      "name6": "323492",
+      "name7": "D24494949",
+      "edit": "false"
+    }
+  ],
+  "patch": [
+    {
+      "name1": "D323A1",
+      "name2": "11/12/2019",
+      "name3": "Skynet System Inc. jsdgfsljfgajsd asdkjashfk asdjf",
+      "edit": "false"
+    },
+    {
+      "name1": "D323A1",
+      "name2": "11/12/2019",
+      "name3": "Skynet System Inc. jsdgfsljfgajsd asdkjashfk asdjf",
+      "edit": "false"
+    },
+    {
+      "name1": "D323A1",
+      "name2": "11/12/2019",
+      "name3": "Skynet System Inc. jsdgfsljfgajsd asdkjashfk asdjf",
+      "edit": "false"
+    }
+  ],
+  "ErrorLog": [
+    {
+      "name1": "CWY550505",
+      "name2": "Alfred Pennyworth",
+      "name3": "Skynet System Inc. afhaig ae asdf asdf ",
+      "name4": "ADA3TE",
+      "name5": "323492",
+      "name6": "12/12/2019",
+      "edit": "false"
+    },
+    {
+      "name1": "CWY550505",
+      "name2": "Alfred Pennyworth",
+      "name3": "Skynet System Inc. afhaig ae asdf asdf ",
+      "name4": "ADA3TE",
+      "name5": "323492",
+      "name6": "12/12/2019",
+      "edit": "false"
+    },
+    {
+      "name1": "CWY550505",
+      "name2": "Alfred Pennyworth",
+      "name3": "Skynet System Inc. afhaig ae asdf asdf ",
+      "name4": "ADA3TE",
+      "name5": "323492",
+      "name6": "12/12/2019",
+      "edit": "false"
+    }
+  ],
+  "timeregistrationview": [
+    {
+      "name1": "00:00:00 AM",
+      "name2": "YCA0012",
+      "name3": "Robert Ruth",
+      "name4": "88",
+      "edit": "false"
+    },
+    {
+      "name1": "00:00:00 AM",
+      "name2": "YCA0012",
+      "name3": "Robert Ruth",
+      "name4": "88",
+      "edit": "false"
+    },
+    {
+      "name1": "00:00:00 AM",
+      "name2": "YCA0012",
+      "name3": "Robert Ruth",
+      "name4": "88",
+      "edit": "false"
+    }
+  ]
+}

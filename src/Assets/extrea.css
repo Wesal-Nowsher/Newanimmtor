@@ -1,0 +1,21 @@
+.blue-back{
+    background: rgb(119,159,238)!important;
+}
+
+.inputcontrol{
+    width: 100px;
+    margin: 0 10px 0 -1px;
+}
+
+.height-100{
+    height:100vw
+}
+
+.react-responsive-modal-modal .col-sm-6{
+    width: 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.react-responsive-modal-modal .col-sm-6 .card{
+    border:none
+}
